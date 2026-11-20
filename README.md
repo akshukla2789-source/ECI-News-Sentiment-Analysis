@@ -22,11 +22,14 @@ This project analyzes Election Commission of India (ECI) related news using Pyth
 ## Project Structure
 ```text
 ECI-News-Sentiment-Analysis/
+ECI-News-Sentiment-Analysis/
 │
 ├── ECI.ipynb
 ├── README.md
 ├── LICENSE
-└── .gitignore
+├── .gitignore
+├── ECI_Sentiment_Analysis_Results.csv
+└── ECI_Sentiment_Dashboard.html
 ```
 
 ## How to Run
